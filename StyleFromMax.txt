@@ -1,2 +1,6 @@
 "1 Max added style"
+<<<<<<< Updated upstream
 "2 recieve task somethimg change"
+=======
+"2 add local changes branch main"
+>>>>>>> Stashed changes
